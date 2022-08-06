@@ -1,0 +1,4 @@
+#the API
+#BASE_URL = 'https://api.mail.tm'
+
+requests==2.25.1
